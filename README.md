@@ -1,4 +1,4 @@
-puppet-dns
+puppet-dnf
 ==========
 
 
